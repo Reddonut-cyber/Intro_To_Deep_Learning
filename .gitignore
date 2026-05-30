@@ -1,4 +1,6 @@
 .DS_Store
 __pycache__/
 *.py[cod]
-
+*.zip
+*.tar.gz
+Contests/food20_data/
